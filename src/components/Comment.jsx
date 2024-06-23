@@ -14,7 +14,7 @@ export function Comment(props) {
               <time title='data exata' dateTime={Date.now()}>Cerca de 1h atrás</time>
             </div>
             <button title='Deletar Comentário'>
-              <Trash size={20} />
+              <Trash size={24} />
             </button>
           </header>
           <p>Muito bom!!!</p>
